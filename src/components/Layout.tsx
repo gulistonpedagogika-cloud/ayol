@@ -25,7 +25,7 @@ export function Navbar() {
               <div className="w-10 h-10 bg-brand-primary rounded-full flex items-center justify-center">
                 <Landmark className="text-white w-6 h-6" />
               </div>
-              <span className="text-2xl font-serif font-bold tracking-tight">Siyosiy Ayol</span>
+              <span className="text-2xl font-serif font-bold tracking-tight">Lider Ayol</span>
             </Link>
           </div>
 
@@ -104,7 +104,7 @@ export function Footer() {
               <div className="w-8 h-8 bg-brand-primary rounded-full flex items-center justify-center">
                 <Landmark className="text-white w-5 h-5" />
               </div>
-              <span className="text-xl font-serif font-bold">Siyosiy Ayol</span>
+              <span className="text-xl font-serif font-bold">Lider Ayol</span>
             </div>
             <p className="text-brand-ink/60 max-w-md">
               Ayollarning siyosiy madaniyati va huquqiy savodxonligini oshirish, ularning jamiyatdagi rolini kuchaytirishga qaratilgan innovatsion platforma.
@@ -129,7 +129,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-brand-primary/5 text-center text-brand-ink/40 text-xs">
-          © {new Date().getFullYear()} Siyosiy Ayol platformasi. Barcha huquqlar himoyalangan.
+          © {new Date().getFullYear()} Lider Ayol platformasi. Barcha huquqlar himoyalangan.
         </div>
       </div>
     </footer>

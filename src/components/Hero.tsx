@@ -18,7 +18,7 @@ export function Hero() {
                 Yangi davr ayollari uchun
               </span>
               <h1 className="text-5xl md:text-7xl font-serif font-bold leading-tight mb-6">
-                Siyosiy <span className="italic text-brand-primary">Ayol</span>
+                Lider <span className="italic text-brand-primary">Ayol</span>
               </h1>
               <p className="text-lg text-brand-ink/70 mb-10 leading-relaxed">
                 Biz ayollarning siyosiy jarayonlardagi ishtirokini qo'llab-quvvatlaymiz, ularning huquqiy bilimlarini oshiramiz va yetakchilik qobiliyatlarini rivojlantirishga yordam beramiz.
